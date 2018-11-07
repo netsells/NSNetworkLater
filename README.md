@@ -1,6 +1,6 @@
 # NSNetworkLater
 
-[![CI Status](https://img.shields.io/travis/jackcolley/NSNetworkLater.svg?style=flat)](https://travis-ci.org/jackcolley/NSNetworkLater)
+[![Build Status](https://travis-ci.com/netsells/NSNetworkLater.svg?branch=master)](https://travis-ci.com/netsells/NSNetworkLater)
 [![Version](https://img.shields.io/cocoapods/v/NSNetworkLater.svg?style=flat)](https://cocoapods.org/pods/NSNetworkLater)
 [![License](https://img.shields.io/cocoapods/l/NSNetworkLater.svg?style=flat)](https://cocoapods.org/pods/NSNetworkLater)
 [![Platform](https://img.shields.io/cocoapods/p/NSNetworkLater.svg?style=flat)](https://cocoapods.org/pods/NSNetworkLater)
