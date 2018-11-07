@@ -1,0 +1,6 @@
+framework module Pods_NSNetworkLater_Example {
+  umbrella header "Pods-NSNetworkLater_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

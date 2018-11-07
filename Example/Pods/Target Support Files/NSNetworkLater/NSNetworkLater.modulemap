@@ -1,0 +1,6 @@
+framework module NSNetworkLater {
+  umbrella header "NSNetworkLater-umbrella.h"
+
+  export *
+  module * { export * }
+}

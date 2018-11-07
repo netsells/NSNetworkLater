@@ -1,0 +1,16 @@
+PODS:
+  - NSNetworkLater (0.1.0)
+
+DEPENDENCIES:
+  - NSNetworkLater (from `../`)
+
+EXTERNAL SOURCES:
+  NSNetworkLater:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSNetworkLater: 753ac070b20f6d3e8e02ae01642038be108ebbd3
+
+PODFILE CHECKSUM: 2e63700bda9c07eeececa72dc020944874b8ae09
+
+COCOAPODS: 1.5.3

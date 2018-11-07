@@ -1,0 +1,6 @@
+framework module Pods_NSNetworkLater_Tests {
+  umbrella header "Pods-NSNetworkLater_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
