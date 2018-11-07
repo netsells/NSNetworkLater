@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/NSNetworkLater.svg?style=flat)](https://cocoapods.org/pods/NSNetworkLater)
 [![Platform](https://img.shields.io/cocoapods/p/NSNetworkLater.svg?style=flat)](https://cocoapods.org/pods/NSNetworkLater)
 
+## Intro
+NSNetwork later is a simple library inspired by AWS App Sync and EVSendLater which allows developers to easily store network requests when they have failed e.g no internet connection or the backend service is down and try them again later. 
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
