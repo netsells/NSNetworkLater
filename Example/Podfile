@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSNetworkLater_Example' do
+  pod 'NSNetworkLater', :path => '../'
+
+  target 'NSNetworkLater_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
